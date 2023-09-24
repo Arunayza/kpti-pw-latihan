@@ -1,7 +1,7 @@
 # kpti-pw-latihan
 Kelas Pemrograman Dasar (HTML , CSS , Js)
 
-Tugas Minggu Pertama Dari pertemuan Klub Pemrgrogaman
+Tugas Minggu Pertama Dari pertemuan Klub Pemrograman
 Jurusan TI Politeknik Negeri Samarinda
 
 yang diberikan oleh :
